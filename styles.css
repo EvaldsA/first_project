@@ -1,0 +1,16 @@
+.sub-section {
+
+background-color: blueviolet;
+
+p{
+    margin: 48px;
+    padding:  32px;
+    border-top-width: 3px;
+
+}
+}
+/* 
+    1 veids inline css 
+    2 Internal css
+    3. external css
+*/
