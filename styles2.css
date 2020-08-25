@@ -1,0 +1,171 @@
+html, body{
+    height: 100vh;
+}
+.left{
+/* Rectangle 1 */
+
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+}
+.sveiciens{
+    
+    margin: 0 auto;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 54px;
+line-height: 70px;
+/* or 130% */
+text-align: center;
+/* primary/white */
+color: #FFFFFF;
+}
+.linija{
+/* Line 2 */
+
+width: 248px;
+height: 0px;
+
+/* primary/white */
+border: 1px solid #FFFFFF;
+}
+.apraksts{
+    /* Tavas laboratorijas uzskaites sistēma */
+
+
+height: 36px;
+  
+/* header/h5 */
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+/* primary/white */
+color: #FFFFFF;
+}
+.elipse{
+    /* Ellipse 1 */
+
+width: 359px;
+height: 359px;
+left: 121px;
+top: 513px;
+/* primary/white */
+background: #FFFFFF;
+}
+
+
+/* Esi sveicināts ĶLUS */
+
+.group1 {
+    
+    width: 90%;
+    height: 256px;
+    margin: 0 auto;
+    margin-top: 10vh;
+    text-align: center;
+
+}
+.group2 {
+    
+    width: 634px;
+height: 366px;
+left: 681px;
+top: 128px;
+    margin: 0 auto;
+    margin-top: 10vh;
+    text-align: center;
+
+    
+
+}
+
+
+.kimija {
+margin: 0 auto;
+display: block;
+width: 60%;
+margin-top: 10vh;  
+}
+
+.zila {
+    color:#0084F8
+
+}
+.peleka {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170.23%;
+    /* or 34px */
+    
+    
+    /* secondary/d300 */
+    
+    color: #52616B;
+
+}
+.kaste {
+
+
+
+}
+
+.pa-kreisi {
+    
+}
+.poga1 {
+
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+display: inline-flex;
+align-items: center;
+
+/* primary/white */
+
+color: #FFFFFF;
+
+background: #0084F8
+
+}
+
+.poga2 {
+    
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+display: inline-flex;
+align-items: center;
+}
+
+.poga3 {     
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+    
+    background: #FF8576
+
+}
+
+.lb-kolonna {
+    background:#E5E5E5;
+}
